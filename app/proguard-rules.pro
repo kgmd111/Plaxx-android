@@ -1,0 +1,4 @@
+-keepattributes Signature
+-keepattributes *Annotation*
+-keep class com.plaxx.app.data.api.** { *; }
+-keep class com.plaxx.app.data.models.** { *; }
